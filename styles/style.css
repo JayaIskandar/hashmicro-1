@@ -22,7 +22,7 @@ html, body {
 /*-------------------------- HEADER -------------------------- */
 .header {
     height: 50vh; 
-    background: url('https://github.com/JayaIskandar/beanxpert-stock-img/raw/main/hash-banner-1.svg') no-repeat center center/cover;
+    background: url('https://raw.githubusercontent.com/JayaIskandar/hashmicro-1/main/images/hash-banner-1.svg') no-repeat center center/cover;
     text-align: center;
     color: white;
     display: flex;
@@ -88,7 +88,7 @@ html, body {
     position: relative;
     width: 100%; 
     height: 250px; 
-    background:url('https://github.com/JayaIskandar/beanxpert-stock-img/raw/main/hash-banner-1.svg');
+    background:url('https://raw.githubusercontent.com/JayaIskandar/hashmicro-1/main/images/hash-banner-1.svg');
     border-radius: 10px; 
     overflow: hidden; 
 }
